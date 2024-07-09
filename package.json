@@ -1,0 +1,17 @@
+{
+  "name": "my_proxy_server",
+  "version": "1.0.0",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "nodemon proxy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http-proxy": "^1.18.1",
+    "nodemon": "^3.1.4"
+  }
+}
