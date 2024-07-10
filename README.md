@@ -13,7 +13,7 @@
      ```sh
        npm install express http-proxy nodemon
      ```
-3. Run the sever
+3. Run the server
     ```sh
       npm start
     ```
